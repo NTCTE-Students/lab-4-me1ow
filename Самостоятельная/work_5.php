@@ -1,8 +1,10 @@
 <?php
-function Upper(string $string): string {
+
+$someString = 'My grandmother smokes a pipe.';
+// Не работает на русском :(
+
+function upRegister(&$string) {
     return strtoupper($string);
 }
 
-$stroka = "оророро"
-
-echo Upper($stroka);
+print(upRegister($someString));
