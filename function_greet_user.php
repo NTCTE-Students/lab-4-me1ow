@@ -4,6 +4,6 @@ function greetUser($name = 'гость') {
     echo "Привет, {$name}!";
 }
 
-// Вызов функции
+// Вызов фунции
 greetUser();
 greetUser('Анна');

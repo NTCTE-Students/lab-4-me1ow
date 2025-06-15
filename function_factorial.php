@@ -8,6 +8,6 @@ function factorial($n) {
     }
 }
 
-// Вызов функции
+// Выов функции
 $result = factorial(5);
 print("Факториал 5: {$result}");

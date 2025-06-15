@@ -8,7 +8,7 @@ function divide($a, $b) {
     }
 }
 
-// Вызов функции
+// Выов функции
 $result = divide(10, 0);
 print($result);
 

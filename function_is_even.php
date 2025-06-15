@@ -8,6 +8,6 @@ function isEven($number) {
     }
 }
 
-// Вызов функции
+// Взов функции
 $result = isEven(4);
 print($result);

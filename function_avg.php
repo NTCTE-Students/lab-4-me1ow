@@ -6,7 +6,7 @@ function average($numbers) {
     return $sum / $count;
 }
 
-// Вызов функции
+// Вызов ункции
 $numbers = [1, 2, 3, 4, 5];
 $result = average($numbers);
 

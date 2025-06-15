@@ -4,6 +4,6 @@ function add($a, $b) {
     return $a + $b;
 }
 
-// Вызов функции
+// Вызов функцпи
 $result = add(3, 5);
 print("Сумма: {$result}");

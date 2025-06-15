@@ -4,5 +4,5 @@ $greet = function($name) {
     return "Привет, $name!";
 };
 
-// Вызов функции
+// Вызов функцие
 print($greet('Анна'));

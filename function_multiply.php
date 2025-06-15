@@ -7,5 +7,5 @@ function multiply(...$numbers) {
     return $result;
 }
 
-// Вызов функции
+// зов функции
 print(multiply(1, 2, 3, 4)); // Результат: 24
